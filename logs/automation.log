@@ -1,0 +1,12 @@
+2024-11-27 00:00:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@3f1ddac2: 659 ms
+2024-11-27 00:00:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@280d9edc: 61 ms
+2024-11-27 00:00:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5d1b9c3d: 51 ms
+2024-11-27 00:00:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7c853486: 43 ms
+2024-11-27 00:00:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@68f32020: 28 ms
+2024-11-27 00:00:07 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@409986fe: 0 ms
+2024-11-27 00:10:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\com.opencartV121\testng.xml
+
+2024-11-27 00:13:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\com.opencartV121\testng.xml
+
